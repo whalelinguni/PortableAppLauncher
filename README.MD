@@ -1,6 +1,6 @@
-## I got sick of dealing with the portableapps.com launcher, some things are just overly complicated for no real reason. 
+### I got sick of dealing with the portableapps.com launcher, some things are just overly complicated for no real reason. 
 
-## Wrote this quickly, has basic launcher features. WIP as I plan to add more, such as using symlinks instead of movie files/directories
+### Wrote this quickly, has basic launcher features. WIP as I plan to add more, such as using symlinks instead of movie files/directories
 
 # 🧰 Portable App Launcher
 
